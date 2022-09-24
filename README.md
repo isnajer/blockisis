@@ -1,2 +1,0 @@
-# blockisis
-My first blockchain.
